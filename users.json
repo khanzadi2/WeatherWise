@@ -1,0 +1,72 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin123"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba@gmail.com",
+            "password": "iba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "khan",
+            "password": "khan"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "niba",
+            "password": "niba"
+        },
+        {
+            "username": "khan",
+            "password": "khan"
+        },
+        {
+            "username": "khan",
+            "password": "khan"
+        }
+    ]
+}
